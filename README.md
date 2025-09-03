@@ -102,8 +102,6 @@
 </ul>
 
 <hr/>
-
-<h2>🧪 Currently Practicing</h2>
 <ul>
   <li>Sharpening core skills in <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="20"/></li>
   <li>Real‑time automation scenarios with <b>Selenium WebDriver</b> and <b>Cypress</b></li>
