@@ -68,17 +68,6 @@
 
 <hr/>
 
-<h2>📦 Projects & Highlights</h2>
-<ul>
-  <li><b>Snapdeal – Cypress Automation (POM)</b>: end‑to‑end flows for search, filters, cart, checkout; detailed test plan, scenarios, bug reports, and summary.</li>
-  <li><b>NopCommerce Demo Store – Manual QA</b>: Test plan + 15+ bugs (functional, UI, responsive, validation) with screenshots for Admin & Customer portals.</li>
-  <li><b>Sportstyle Grocery (Demo) – Bug Report</b>: Structured reporting with severity/priority, reproducible steps, and visuals.</li>
-  <li><b>Rahul Shetty Practice – Selenium + TestNG</b>: dynamic dropdowns, calendar selection, checkboxes, waits, screenshots, window/iFrame handling.</li>
-  <li><b>Round‑Trip Flight Search – Selenium + TestNG</b>: JavaScriptExecutor, custom waits, and page objects.</li>
-</ul>
-
-<hr/>
-
 <h2>📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Nikk87&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Nikhil's GitHub Streak" />
