@@ -102,7 +102,7 @@
 
 <h3>📬 Connect With Me</h3>
 <p>
-  <a href="https://github.com/Nikk87">
+  <a href="https://github.com/Nikhil-Damale">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/feed/">
