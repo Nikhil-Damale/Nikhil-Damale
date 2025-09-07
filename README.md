@@ -70,13 +70,13 @@
 
 <h2>📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nikk87&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Nikhil's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Nikhil-Damale&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Nikhil's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikk87&show_icons=true&theme=radical" alt="Nikhil's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Damale&show_icons=true&theme=radical" alt="Nikhil's GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikk87&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Damale&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <hr/>
